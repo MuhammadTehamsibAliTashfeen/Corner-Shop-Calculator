@@ -1,0 +1,7 @@
+print("Prices:")
+print("Bubblegum: $2")
+print("toffee: $0.2")
+print("Ice Cream: $5")
+print("Milk Chocolate: $4")
+print("Doughnut: $2.50")
+print("Pancake: $3.2")
